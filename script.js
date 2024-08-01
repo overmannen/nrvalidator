@@ -25,3 +25,4 @@ const ifValid = () => {
 
 checkBtn.addEventListener("click", checkInput)
 clearBtn.addEventListener("click", clearInput)
+console.log("hello gi");
